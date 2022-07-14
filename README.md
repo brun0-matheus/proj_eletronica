@@ -3,8 +3,8 @@ Trabalhos para a disciplina de Eletrônica para Computação do curso Bacharelad
 
 Integrantes do grupo:
 
-Bruno Matheus - 13672637
+Bruno Matheus Foschiani Ricardo
 
-Lucas Oliveira - <NUM_USP>
+Lucas de Oliveira Ferreira
 
-Vinicius D? - <NUM_USP>
+Vinicius Ramos Diniz
