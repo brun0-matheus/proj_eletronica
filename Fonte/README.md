@@ -6,7 +6,9 @@ A fonte é capaz de transformar uma corrente alternada de 127V em corrente cont�
 
 ## Vídeo
 
-_TODO: video (fazer upload e por link)_
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=84dRtorudmM
+" target="_blank"><img src="http://img.youtube.com/vi/84dRtorudmM/0.jpg" 
+alt="Thumbnail do video" width="240" height="180" border="10" /></a>
 
 ## Componentes
 
