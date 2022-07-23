@@ -1,5 +1,7 @@
 # Fonte de tensão ajustável
 
+# OBS: Até segunda está pronto, temos prova de GA
+
 ## Especificação
 
 A fonte é capaz de transformar uma corrente alternada de 127V em corrente contínua de 3V a 12V, com o usuário podendo escolher qualquer tensão de saída nesse intervalo.
