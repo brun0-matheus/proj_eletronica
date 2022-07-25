@@ -18,7 +18,7 @@ _TODO_
 
 ## Circuito
 
-![alt text](https://raw.githubusercontent.com/brun0-matheus/proj_eletronica/main/Fonte/simulador.jpg Simulador)
+![alt text](https://raw.githubusercontent.com/brun0-matheus/proj_eletronica/main/Fonte/simulador.jpg "Simulador")
 
 Link: <https://tinyurl.com/2484r982>
 
