@@ -1,7 +1,5 @@
 # Fonte de tensão ajustável
 
-# OBS: Até segunda está pronto, temos prova de GA
-
 ## Especificação
 
 A fonte é capaz de transformar uma corrente alternada de 127V em corrente contínua de 3V a 12V, com o usuário podendo escolher qualquer tensão de saída nesse intervalo.
@@ -14,7 +12,18 @@ alt="Thumbnail do video" width="240" height="180" border="10" /></a>
 
 ## Componentes
 
-_TODO_
+|  Quantidade  |  Componente  |  Preço  |
+|---|---|---|---|
+| 1x | Capacitor 608uF 25V | R$ 1,45 |
+| 1x | LED 5mm | R$ 0,50 |
+| 2x | Resistor 1kΩ | R$ 0,14 |
+| 1x | Resistor 2kΩ | R$ 0,07 |
+| 4x | Diodo 1N4007 | R$ 0,80 |
+| 1x | Diodo Zenner 13V 1N4743 | R$ 0,48 |
+| 1x | Potenciômetro | R$ 7,00 |
+| 1x | Transistor | R$ 0,50 |
+| 1x | Transformador | (Pego emprestado) |
+| Total | - | - | R$ 10,94 |
 
 ## Circuito
 
