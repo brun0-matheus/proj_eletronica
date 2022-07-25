@@ -18,8 +18,9 @@ _TODO_
 
 ## Circuito
 
-_TODO: fotinha_
-Link: _TODO: falstad_
+![alt text](https://raw.githubusercontent.com/brun0-matheus/proj_eletronica/main/Fonte/simulador.jpg Simulador)
+
+Link: <https://tinyurl.com/2484r982>
 
 ## Esquemático PCB
 

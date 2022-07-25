@@ -14,6 +14,6 @@ alt="Thumbnail do video" width="240" height="180" border="10" /></a>
 
 ## Simulador
 
-_TODO: link da foto_
+![alt text](https://raw.githubusercontent.com/brun0-matheus/proj_eletronica/main/Genius/simulador.jpg Simulador)
 
 Link: <https://wokwi.com/projects/337128219859747411>
