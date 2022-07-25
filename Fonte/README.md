@@ -22,9 +22,11 @@ _TODO_
 
 Link: <https://tinyurl.com/2484r982>
 
-## Esquemático PCB
+## Esquemático e PCB
 
-_TODO: fotinha_
+![alt text](https://raw.githubusercontent.com/brun0-matheus/proj_eletronica/main/Fonte/esquematico.jpg "Esquemático")
+
+![alt text](https://raw.githubusercontent.com/brun0-matheus/proj_eletronica/main/Fonte/pcb.jpg "PCB")
 
 ## Contas
 
